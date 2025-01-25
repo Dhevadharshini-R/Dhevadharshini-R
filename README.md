@@ -4,7 +4,6 @@ Hi, I'm Dhevadharshini R, a passionate programmer with a keen interest in Java, 
 
 Technical Skills
 - Programming languages: Java, Python, Html
-- Blockchain 
 
 Education
 - Currently pursuing B.E. in Computer Science and Engineering (3rd Year)
