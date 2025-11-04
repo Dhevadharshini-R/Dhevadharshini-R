@@ -6,7 +6,7 @@ Technical Skills
 - Programming languages: Java, Python, Html
 
 Education
-- Currently pursuing B.E. in Computer Science and Engineering (3rd Year)
+- Currently pursuing B.E. in Computer Science and Engineering (4rd Year)
 - Currently learning Blockchain on NPTEL Swayam
 
 Contact
